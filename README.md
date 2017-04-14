@@ -7,7 +7,7 @@ Weed Squad is a Turkish CTF team. It was started its adventure in early 2016. We
 P.S: When we participate a CTF, just look TOP 3 teams! Watch us while WE are pwning whole CTF !
 
 # Team
-* [@muratyilmazlarr](https://twitter.com/muratyilmazlarr)
+* [@divinepwner](https://twitter.com/divinepwner)
 * [@m0ss_](https://twitter.com/m0ss_)
 * [@1ce7ea](https://twitter.com/1ce7ea)
 * [@EgeBLC](https://twitter.com/EgeBLC)
